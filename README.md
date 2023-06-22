@@ -22,6 +22,8 @@ If the website structure changes significantly, the scraper may require adjustme
 
 ## Acknowledgments
 https://github.com/venomous/cloudscraper
+
 https://github.com/jnrbsn/python-latest-user-agents
+
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
