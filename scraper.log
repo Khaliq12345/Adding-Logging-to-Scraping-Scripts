@@ -1,0 +1,65 @@
+21-Jun-23 03:11:55 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:11:58 - https://www.finishline.com:443 "GET /store/product/big-kids-jordan-tatum-1-basketball-shoes/prod2859647?styleId=DX5359&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:14:01 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:14:03 - https://www.finishline.com:443 "GET /store/product/big-kids-jordan-tatum-1-basketball-shoes/prod2859647?styleId=DX5359&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:14:03 - ("Big Kids' Jordan Tatum 1 Basketball Shoes", '$90.00', '5.0', '1')
+21-Jun-23 03:15:57 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:15:58 - https://www.finishline.com:443 "GET /store/product/big-kids-jordan-tatum-1-basketball-shoes/prod2859647?styleId=DX5359&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:15:59 - ("Big Kids' Jordan Tatum 1 Basketball Shoes", '$90.00', '5.0', '1')
+21-Jun-23 03:15:59 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:16:00 - https://www.finishline.com:443 "GET /store/product/little-kids-jordan-tatum-1-basketball-shoes/prod2859680?styleId=DX5357&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:16:00 - ("Little Kids' Jordan Tatum 1 Basketball Shoes", '$75.00', '5.0', '1')
+21-Jun-23 03:16:00 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:16:01 - https://www.finishline.com:443 "GET /store/product/jordan-tatum-1-basketball-shoes/prod2859661?styleId=DV6208&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:16:01 - ('Jordan Tatum 1 Basketball Shoes', '$120.00', '5.0', '3')
+21-Jun-23 03:16:01 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:16:03 - https://www.finishline.com:443 "GET /store/product/kids-toddler-jordan-tatum-1-basketball-shoes/prod2859615?styleId=DX5358&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:16:03 - ("Kids' Toddler Jordan Tatum 1 Basketball Shoes", '$55.00', '5.0', '1')
+21-Jun-23 03:16:03 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:16:04 - https://www.finishline.com:443 "GET /store/product/air-jordan-retro-1-high-og-casual-shoes/prod2854212?styleId=DZ5485&colorId=052 HTTP/1.1" 200 None
+21-Jun-23 03:16:04 - ('Air Jordan Retro 1 High OG Casual Shoes', '$180.00', '4.9', '281')
+21-Jun-23 03:18:55 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:18:57 - https://www.finishline.com:443 "GET /store/product/big-kids-jordan-tatum-1-basketball-shoes/prod2859647?styleId=DX5359&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:18:57 - ('2023-06-21', 'Finish Line', "Big Kids' Jordan Tatum 1 Basketball Shoes", '$90.00', '5.0', '1')
+21-Jun-23 03:18:57 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:18:58 - https://www.finishline.com:443 "GET /store/product/little-kids-jordan-tatum-1-basketball-shoes/prod2859680?styleId=DX5357&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:18:58 - ('2023-06-21', 'Finish Line', "Little Kids' Jordan Tatum 1 Basketball Shoes", '$75.00', '5.0', '1')
+21-Jun-23 03:18:58 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:18:59 - https://www.finishline.com:443 "GET /store/product/jordan-tatum-1-basketball-shoes/prod2859661?styleId=DV6208&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:19:00 - ('2023-06-21', 'Finish Line', 'Jordan Tatum 1 Basketball Shoes', '$120.00', '5.0', '3')
+21-Jun-23 03:19:00 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:19:01 - https://www.finishline.com:443 "GET /store/product/kids-toddler-jordan-tatum-1-basketball-shoes/prod2859615?styleId=DX5358&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 03:19:01 - ('2023-06-21', 'Finish Line', "Kids' Toddler Jordan Tatum 1 Basketball Shoes", '$55.00', '5.0', '1')
+21-Jun-23 03:19:01 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 03:19:02 - https://www.finishline.com:443 "GET /store/product/air-jordan-retro-1-high-og-casual-shoes/prod2854212?styleId=DZ5485&colorId=052 HTTP/1.1" 200 None
+21-Jun-23 03:19:03 - ('2023-06-21', 'Finish Line', 'Air Jordan Retro 1 High OG Casual Shoes', '$180.00', '4.9', '281')
+21-Jun-23 08:37:05 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:08 - https://www.finishline.com:443 "GET /store/product/big-kids-jordan-tatum-1-basketball-shoes/prod2859647?styleId=DX5359&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 08:37:08 - ('2023-06-21', 'Finish Line', "Big Kids' Jordan Tatum 1 Basketball Shoes", '$90.00', '5.0', '1')
+21-Jun-23 08:37:08 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:09 - https://www.finishline.com:443 "GET /store/product/little-kids-jordan-tatum-1-basketball-shoes/prod2859680?styleId=DX5357&colorId=600 HTTP/1.1" 200 40412
+21-Jun-23 08:37:10 - ('2023-06-21', 'Finish Line', "Little Kids' Jordan Tatum 1 Basketball Shoes", '$75.00', '5.0', '1')
+21-Jun-23 08:37:10 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:11 - https://www.finishline.com:443 "GET /store/product/jordan-tatum-1-basketball-shoes/prod2859661?styleId=DV6208&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 08:37:12 - ('2023-06-21', 'Finish Line', 'Jordan Tatum 1 Basketball Shoes', '$120.00', '5.0', '3')
+21-Jun-23 08:37:12 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:14 - https://www.finishline.com:443 "GET /store/product/kids-toddler-jordan-tatum-1-basketball-shoes/prod2859615?styleId=DX5358&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 08:37:14 - ('2023-06-21', 'Finish Line', "Kids' Toddler Jordan Tatum 1 Basketball Shoes", '$55.00', '5.0', '1')
+21-Jun-23 08:37:14 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:16 - https://www.finishline.com:443 "GET /store/product/air-jordan-retro-1-high-og-casual-shoes/prod2854212?styleId=DZ5485&colorId=052 HTTP/1.1" 200 None
+21-Jun-23 08:37:16 - ('2023-06-21', 'Finish Line', 'Air Jordan Retro 1 High OG Casual Shoes', '$180.00', '4.9', '281')
+21-Jun-23 08:37:48 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:49 - https://www.finishline.com:443 "GET /store/product/big-kids-jordan-tatum-1-basketball-shoes/prod2859647?styleId=DX5359&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 08:37:49 - ('2023-06-21', 'Finish Line', "Big Kids' Jordan Tatum 1 Basketball Shoes", '$90.00', '5.0', '1')
+21-Jun-23 08:37:49 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:50 - https://www.finishline.com:443 "GET /store/product/little-kids-jordan-tatum-1-basketball-shoes/prod2859680?styleId=DX5357&colorId=600 HTTP/1.1" 200 40415
+21-Jun-23 08:37:50 - ('2023-06-21', 'Finish Line', "Little Kids' Jordan Tatum 1 Basketball Shoes", '$75.00', '5.0', '1')
+21-Jun-23 08:37:50 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:51 - https://www.finishline.com:443 "GET /store/product/jordan-tatum-1-basketball-shoes/prod2859661?styleId=DV6208&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 08:37:51 - ('2023-06-21', 'Finish Line', 'Jordan Tatum 1 Basketball Shoes', '$120.00', '5.0', '3')
+21-Jun-23 08:37:51 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:53 - https://www.finishline.com:443 "GET /store/product/kids-toddler-jordan-tatum-1-basketball-shoes/prod2859615?styleId=DX5358&colorId=600 HTTP/1.1" 200 None
+21-Jun-23 08:37:53 - ('2023-06-21', 'Finish Line', "Kids' Toddler Jordan Tatum 1 Basketball Shoes", '$55.00', '5.0', '1')
+21-Jun-23 08:37:53 - Starting new HTTPS connection (1): www.finishline.com:443
+21-Jun-23 08:37:55 - https://www.finishline.com:443 "GET /store/product/air-jordan-retro-1-high-og-casual-shoes/prod2854212?styleId=DZ5485&colorId=052 HTTP/1.1" 200 None
+21-Jun-23 08:37:55 - ('2023-06-21', 'Finish Line', 'Air Jordan Retro 1 High OG Casual Shoes', '$180.00', '4.9', '281')
