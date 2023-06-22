@@ -12,6 +12,14 @@ Requests_html
 
 latest_user_agents
 
+cloudscraper
+
+BeautifulSoup
+
+logging
+
+datetime
+
 ## Notes
 Please be mindful of the website's terms of service and policies while scraping. 
 Ensure that your scraping activities are legal and respectful of the website's resources.
